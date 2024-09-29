@@ -1,0 +1,22 @@
+* {
+    font-family: "Courier New", "Georgia", monospace;
+}
+
+img {
+    width: auto;
+    height: 600px;
+}
+
+.title {
+    text-align: center;
+    font-size: 40px;
+    font-weight: bolder;
+    color: pink;
+    background-color: black;
+}
+
+.subheading {
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+}

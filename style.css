@@ -1,5 +1,17 @@
+* {
+    font-family: "Courier New", "Georgia", monospace;
+}
+
 .title {
-    background-color: darkorchid;
-    color: white;
-    font-size: 30px ;
+    background-color: pink;
+    color: black;
+    font-size: 40px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.link {
+    color: blue;
+    font-size: 22px;
+    text-align: center;
 }
