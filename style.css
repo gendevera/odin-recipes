@@ -1,5 +1,6 @@
 * {
     font-family: "Courier New", "Georgia", monospace;
+    box-sizing: border-box;
 }
 
 .title {
@@ -8,10 +9,24 @@
     font-size: 40px;
     font-weight: bolder;
     text-align: center;
+    width: 500px;
+    height: auto;
+    margin: 20px auto;
+    padding: 20px;
+    border: 2px;
+    border-style: dashed;
+    text-align: center;
+}
+
+button {
+    display: block;
+    background-color: black;
+    margin: 20px auto;
 }
 
 .link {
-    color: blue;
+    display: block;
+    color: pink;
     font-size: 22px;
     text-align: center;
 }
